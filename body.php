@@ -25,59 +25,8 @@
                                     </div>
                                 </div>
                                 <div class="vc_row-full-width vc_clearfix"></div>
-                                <div class="vc_row wpb_row vc_row-fluid">
-                                    <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
-                                        <div class="vc_column-inner ">
-                                            <div class="wpb_wrapper">
-                                                <div class="sc_layouts sc_layouts_default sc_layouts_609">
-                                                    <div class="vc_row wpb_row vc_row-fluid scheme_dark">
-                                                        <div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-xs sc_layouts_column_icons_position_left">
-                                                            <div class="vc_column-inner ">
-                                                                <div class="wpb_wrapper">
-                                                                    <div class="sc_content_wrap sc_push_large">
-                                                                        <div id="sc_content_411353873" class="sc_content color_style_default sc_content_default sc_float_center">
-                                                                            <div class="sc_content_container">
-                                                                                <div class="sc_layouts_item">
-                                                                                    <div id="sc_icons_1171225625" class="sc_icons sc_icons_default sc_icons_size_small sc_align_left">
-                                                                                        <div class="sc_icons_columns_wrap sc_item_columns trx_addons_columns_wrap columns_padding_bottom">
-                                                                                            <div class="trx_addons_column-1_4">
-                                                                                                <div class="sc_icons_item">
-                                                                                                    <div id="sc_icons_1171225625_icon-icon4" class="sc_icons_icon sc_icon_type_ icon-icon4"><span class="sc_icon_type_ icon-icon4"></span></div>
-                                                                                                    <h4 class="sc_icons_item_title"><span>Fast Online Instant Approvals</span></h4></div>
-                                                                                            </div>
-                                                                                            <div class="trx_addons_column-1_4">
-                                                                                                <div class="sc_icons_item">
-                                                                                                    <div id="sc_icons_1171225625_icon-icon5" class="sc_icons_icon sc_icon_type_ icon-icon5"><span class="sc_icon_type_ icon-icon5"></span></div>
-                                                                                                    <h4 class="sc_icons_item_title"><span>500,000 Customers </span></h4></div>
-                                                                                            </div>
-                                                                                            <div class="trx_addons_column-1_4">
-                                                                                                <div class="sc_icons_item">
-                                                                                                    <div id="sc_icons_1171225625_icon-icon6" class="sc_icons_icon sc_icon_type_ icon-icon6"><span class="sc_icon_type_ icon-icon6"></span></div>
-                                                                                                    <h4 class="sc_icons_item_title"><span>No Prepayment Fees  </span></h4></div>
-                                                                                            </div>
-                                                                                            <div class="trx_addons_column-1_4">
-                                                                                                <div class="sc_icons_item">
-                                                                                                    <div id="sc_icons_1171225625_icon-icon7" class="sc_icons_icon sc_icon_type_ icon-icon7"><span class="sc_icon_type_ icon-icon7"></span></div>
-                                                                                                    <h4 class="sc_icons_item_title"><span>Flexible payments</span></h4></div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                    <!-- /.sc_icons -->
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <!-- /.sc_content -->
-                                                                    </div>
-                                                                    <!-- /.sc_content_wrap -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+								<!-- Text On Slider-->
+								<!--TEXT ON SLIDER -->
                                 <div class="vc_row wpb_row vc_row-fluid">
                                     <div class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
                                         <div class="vc_column-inner ">
@@ -92,7 +41,7 @@
                                                                     <div class="sc_layouts_item">
                                                                         <div id="sc_services_956816627" class="sc_services color_style_default sc_services_default sc_services_featured_left">
                                                                             <h6 class="sc_item_subtitle sc_services_subtitle sc_align_left sc_item_title_style_modern">A quick & transparent process</h6>
-                                                                            <h2 class="sc_item_title sc_services_title sc_align_left sc_item_title_style_modern sc_item_title_tag">We have<br> a simple online<br> application:</h2>
+                                                                            <h2 class="sc_item_title sc_services_title sc_align_left sc_item_title_style_modern sc_item_title_tag">We have a simple online application:</h2>
                                                                             <div class="sc_services_content sc_item_content sc_item_columns_1">
                                                                                 <div class="sc_services_item with_content with_number sc_services_item_featured_left">
                                                                                     <span class="sc_services_item_number">1</span>
@@ -134,123 +83,9 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="wpb_column vc_column_container vc_col-sm-6 sc_layouts_column_icons_position_left">
-                                                            <div class="vc_column-inner ">
-                                                                <div class="wpb_wrapper">
-                                                                    <div class="vc_empty_space  vc_custom_1498216226410 height_tiny" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                                                                    <div id="sc_content_373317635" class="sc_content color_style_default scheme_dark sc_content_default sc_float_center qis_container  vc_custom_1498215864922 sc_padding_medium">
-                                                                        <div class="sc_content_container">
-                                                                            <div class="sc_layouts_item">
-                                                                                <div id="sc_title_2007804701" class="sc_title color_style_default sc_title_default">
-                                                                                    <h3 class="sc_item_title sc_title_title sc_align_left sc_item_title_style_default sc_item_title_tag">Calculate Tour Rate</h3></div>
-                                                                                <!-- /.sc_title -->
-                                                                            </div>
-                                                                            <div class="vc_empty_space  vc_custom_1498211615771 height_medium" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-
-                                                                            <div class="wpb_text_column wpb_content_element ">
-                                                                                <div class="wpb_wrapper">
-                                                                                    <script type="text/javascript">
-                                                                                        qis__rates["qis_1"] = {
-                                                                                            "currency": "$",
-                                                                                            "ba": "before",
-                                                                                            "separator": "none",
-                                                                                            "interesttype": "simple",
-                                                                                            "loanlabel": false,
-                                                                                            "loanmin": 1000,
-                                                                                            "loanmax": 35000,
-                                                                                            "loaninitial": 18000,
-                                                                                            "loanstep": 4000,
-                                                                                            "periodlabel": false,
-                                                                                            "periodmin": 1,
-                                                                                            "periodmax": 12,
-                                                                                            "periodinitial": 6,
-                                                                                            "periodstep": 1,
-                                                                                            "period": "months",
-                                                                                            "multiplier": 1,
-                                                                                            "markers": false,
-                                                                                            "borrowlabel": "Loan Amount",
-                                                                                            "forlabel": "Loan Period",
-                                                                                            "outputinterestlabel": "Interest to pay: [interest]",
-                                                                                            "outputtotallabel": "Total you will Pay: [total]",
-                                                                                            "interestlabel": "Interest",
-                                                                                            "totallabel": "Total to Pay",
-                                                                                            "primarylabel": 2,
-                                                                                            "secondarylabel": 3,
-                                                                                            "usebubble": 0,
-                                                                                            "outputlimits": true,
-                                                                                            "outputtable": false,
-                                                                                            "outputinterest": true,
-                                                                                            "outputtotal": true,
-                                                                                            "outputrepayments": true,
-                                                                                            "periodslider": true,
-                                                                                            "repaymentlabel": "Borrowing: [amount]",
-                                                                                            "adminfee": false,
-                                                                                            "adminfeevalue": 15,
-                                                                                            "adminfeetype": "fixed",
-                                                                                            "adminfeemin": false,
-                                                                                            "adminfeemax": false,
-                                                                                            "textinputs": "slider",
-                                                                                            "textinputslabel": false,
-                                                                                            "triggers": [{
-                                                                                                "rate": "2",
-                                                                                                "trigger": "0"
-                                                                                            }, {
-                                                                                                "rate": "3",
-                                                                                                "trigger": "35"
-                                                                                            }, {
-                                                                                                "rate": "",
-                                                                                                "trigger": ""
-                                                                                            }, {
-                                                                                                "rate": "",
-                                                                                                "trigger": ""
-                                                                                            }, {
-                                                                                                "rate": "",
-                                                                                                "trigger": ""
-                                                                                            }],
-                                                                                            "formheader": "Calculate Tour Rate",
-                                                                                            "primary": false,
-                                                                                            "secondary": false,
-                                                                                            "termlabel": false,
-                                                                                            "trigger": false,
-                                                                                            "cb": "$",
-                                                                                            "ca": " "
-                                                                                        };
-                                                                                    </script>
-                                                                                    <form action="#" class="qis_form none" method="POST" id="qis_1">
-                                                                                        <input type="hidden" name="interesttype" value="simple" />
-                                                                                        <div class="range qis-slider-principal">
-                                                                                            <div class="qis-slideroutput">
-                                                                                                <span class="qis-sliderleft">$1000 </span>
-                                                                                                <span class="qis-slidercenter"><output></output></span>
-                                                                                                <span class="qis-sliderright">$35000 </span>
-                                                                                            </div>
-                                                                                            <input type="range" name="loan-amount" min="1000" max="35000" value="18000" step="4000" data-qis>
-                                                                                        </div>
-                                                                                        <div class="range qis-slider-term">
-                                                                                            <div class="qis-slideroutput">
-                                                                                                <span class="qis-sliderleft">1 months</span>
-                                                                                                <span class="qis-slidercenter"><output></output></span>
-                                                                                                <span class="qis-sliderright">12 months</span>
-                                                                                            </div>
-                                                                                            <input type="range" name="loan-period" min="1" max="12" value="6" step="1" data-qis>
-                                                                                        </div>
-                                                                                        <div class="qis-repayments">Borrowing: <span class="repayment"></span></div>
-                                                                                        <div class="qis-interest">Interest to pay: <span class="current_interest"></span></div>
-                                                                                        <div class="qis-total">Total you will Pay: <span class="final_total"></span></div>
-                                                                                    </form>
-
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="vc_empty_space  height_small" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- /.sc_content -->
-                                                                    <div class="sc_layouts_item"><a href="contacts/index.html" id="sc_button_893172978" class="sc_button color_style_default sc_button_wide sc_button_size_large sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">Apply Now</span></span><!-- /.sc_button_text --></a>
-                                                                        <!-- /.sc_button -->
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
+														<!--Loan Calculator -->
+                                                        
+														<!--Loan Calculator-->
                                                     </div>
                                                 </div>
                                                 <div class="vc_empty_space  vc_custom_1498026662950 height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
