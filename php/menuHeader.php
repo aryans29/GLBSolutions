@@ -10,7 +10,7 @@
                                             <div class="wpb_wrapper">
                                                 <div class="vc_empty_space  vc_custom_1498224247674 height_tiny" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
                                                 <div class="sc_layouts_item">
-                                                    <a href="index.html" id="sc_layouts_logo_258971206" class="sc_layouts_logo sc_layouts_logo_default"><img class="logo_image" src="wp-content/uploads/2017/06/logo2x_gray.png" alt="" width="400" height="90"><span class="logo_slogan">Your money. At Your Home</span></a>
+                                                    <a href="index.html" id="sc_layouts_logo_258971206" class="sc_layouts_logo sc_layouts_logo_default"><img class="logo_image" src="../wp-content/uploads/2017/06/logo2x_gray.png" alt="" width="400" height="90"><span class="logo_slogan">Your money. At Your Home</span></a>
                                                     <!-- /.sc_layouts_logo -->
                                                 </div>
                                             </div>
@@ -27,7 +27,7 @@
                                                         <ul id="menu-main-menu" class="sc_layouts_menu_nav">
                                                             <li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-98"><a href="index.php"><span>Home</span></a>
                                                             </li>
-                                                            <li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-106"><a href="aboutus.php"><span>About</span></a>
+                                                            <li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-106"><a href="php/aboutus.php"><span>About</span></a>
                                                             </li>
 															<li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-108"><a href="#"><span>Blog</span></a>
                                                                 <ul class="sub-menu">
