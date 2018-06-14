@@ -47,7 +47,7 @@
                                                                                     <span class="sc_services_item_number">1</span>
                                                                                     <div class="sc_services_item_info">
                                                                                         <div class="sc_services_item_header">
-                                                                                            <h4 class="sc_services_item_title"><a href="services/check-your-rates/index.html">Check your rates</a></h4>
+                                                                                            <h4 class="sc_services_item_title">Check your rates</h4>
                                                                                         </div>
                                                                                         <div class="sc_services_item_content">
                                                                                             <p>It takes just a few minutes to provide us with your information.</p>
@@ -58,7 +58,7 @@
                                                                                     <span class="sc_services_item_number">2</span>
                                                                                     <div class="sc_services_item_info">
                                                                                         <div class="sc_services_item_header">
-                                                                                            <h4 class="sc_services_item_title"><a href="services/sign-your-contract-online/index.html">Sign your contract online</a></h4>
+                                                                                            <h4 class="sc_services_item_title">Sign your contract online</h4>
                                                                                         </div>
                                                                                         <div class="sc_services_item_content">
                                                                                             <p>Using our secure application, you can e-sign your contract if pre-approved. Trust &#038; security is our #1 priority.</p>
@@ -69,7 +69,7 @@
                                                                                     <span class="sc_services_item_number">3</span>
                                                                                     <div class="sc_services_item_info">
                                                                                         <div class="sc_services_item_header">
-                                                                                            <h4 class="sc_services_item_title"><a href="services/funds-as-soon-as-tomorrow/index.html">Funds as soon as tomorrow</a></h4>
+                                                                                            <h4 class="sc_services_item_title">Funds as soon as tomorrow</h4>
                                                                                         </div>
                                                                                         <div class="sc_services_item_content">
                                                                                             <p>Money can be directly deposited into your bank account as soon as the next business day.</p>
@@ -103,7 +103,8 @@
                                                             <div class="vc_column-inner ">
                                                                 <div class="wpb_wrapper">
                                                                     <div class="vc_empty_space  vc_custom_1497962984548 height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-                                                                    <div class="sc_layouts_item">
+                                                                    <!--Services-->
+																	<div class="sc_layouts_item">
                                                                         <div id="sc_services_839084773" class="sc_services color_style_default sc_services_short sc_services_featured_top">
                                                                             <h2 class="sc_item_title sc_services_title sc_align_center sc_item_title_style_default sc_item_title_tag">Things to know about our costs</h2>
                                                                             <h6 class="sc_item_subtitle sc_services_subtitle sc_align_center sc_item_title_style_default">Transparent and fair costs, with no hidden fees</h6>
@@ -116,7 +117,7 @@
                                                                                                     <div class="mask"></div><a href="services/flexible-with-your-repayments/index.html" aria-hidden="true" class="icons"><span></span><span></span><span></span></a></div>
                                                                                                 <div class="sc_services_item_info">
                                                                                                     <div class="sc_services_item_header">
-                                                                                                        <h4 class="sc_services_item_title"><a href="services/flexible-with-your-repayments/index.html">Flexible with your repayments</a></h4>
+                                                                                                        <h4 class="sc_services_item_title"><!--<a href="services/flexible-with-your-repayments/index.html">-->Flexible with your repayments<!--</a>--></h4>
                                                                                                     </div>
                                                                                                     <div class="sc_services_item_content">
                                                                                                         <p>Reschedule payments up to five days for free and within your loan term, we just need 24 hours notice.</p>
@@ -130,7 +131,7 @@
                                                                                                     <div class="mask"></div><a href="services/no-early-payment-fees-for-your-loan/index.html" aria-hidden="true" class="icons"><span></span><span></span><span></span></a></div>
                                                                                                 <div class="sc_services_item_info">
                                                                                                     <div class="sc_services_item_header">
-                                                                                                        <h4 class="sc_services_item_title"><a href="services/no-early-payment-fees-for-your-loan/index.html">No early payment fees for your loan</a></h4>
+                                                                                                        <h4 class="sc_services_item_title"><!--<a href="services/no-early-payment-fees-for-your-loan/index.html">-->No early payment fees for your loan<!--</a>--></h4>
                                                                                                     </div>
                                                                                                     <div class="sc_services_item_content">
                                                                                                         <p>So you can pay your loan off sooner and you’ll save on interest.</p>
@@ -144,7 +145,7 @@
                                                                                                     <div class="mask"></div><a href="services/good-credit-history-is-rewarded/index.html" aria-hidden="true" class="icons"><span></span><span></span><span></span></a></div>
                                                                                                 <div class="sc_services_item_info">
                                                                                                     <div class="sc_services_item_header">
-                                                                                                        <h4 class="sc_services_item_title"><a href="services/good-credit-history-is-rewarded/index.html">Good credit history is rewarded</a></h4>
+                                                                                                        <h4 class="sc_services_item_title"><!--<a href="services/good-credit-history-is-rewarded/index.html">-->Good credit history is rewarded<!--</a>--></h4>
                                                                                                     </div>
                                                                                                     <div class="sc_services_item_content">
                                                                                                         <p>Loans are cheaper when you have a good credit profile and you have built your history with us.</p>
@@ -158,7 +159,7 @@
                                                                                                     <div class="mask"></div><a href="services/fast-online-instant-approvals/index.html" aria-hidden="true" class="icons"><span></span><span></span><span></span></a></div>
                                                                                                 <div class="sc_services_item_info">
                                                                                                     <div class="sc_services_item_header">
-                                                                                                        <h4 class="sc_services_item_title"><a href="services/fast-online-instant-approvals/index.html">Fast online instant approvals</a></h4>
+                                                                                                        <h4 class="sc_services_item_title"><!--<a href="services/fast-online-instant-approvals/index.html">-->Fast online instant approvals<!--</a>--></h4>
                                                                                                     </div>
                                                                                                     <div class="sc_services_item_content">
                                                                                                         <p> We provide online instant cash loans with quick approval that suit you.</p>
@@ -173,6 +174,7 @@
                                                                         </div>
                                                                         <!-- /.sc_services -->
                                                                     </div>
+																	<!--Services-->
                                                                     <div class="vc_empty_space  vc_custom_1497964571839 height_huge" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
                                                                 </div>
                                                             </div>
